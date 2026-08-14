@@ -1,0 +1,10 @@
+PyQt6>=6.6.0
+Pillow>=10.0.0
+winrt-Windows.Media.Ocr>=2.0.0; sys_platform == "win32"
+winrt-Windows.Graphics.Imaging>=2.0.0; sys_platform == "win32"
+winrt-Windows.Storage.Streams>=2.0.0; sys_platform == "win32"
+winrt-Windows.Globalization>=2.0.0; sys_platform == "win32"
+winrt-Windows.Foundation>=2.0.0; sys_platform == "win32"
+pytesseract>=0.3.10
+pynput>=1.7.6
+keyboard>=0.13.5
