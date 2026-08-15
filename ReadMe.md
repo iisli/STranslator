@@ -34,8 +34,8 @@
 ## Установка
 
 ```bash
-git clone https://github.com/yourname/screen-translator.git
-cd screen-translator
+git clone https://github.com/iisli/STranslator.git
+cd STranslator
 pip install -r requirements.txt
 python STranslator.py
 ```
