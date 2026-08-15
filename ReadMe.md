@@ -37,7 +37,7 @@
 git clone https://github.com/yourname/screen-translator.git
 cd screen-translator
 pip install -r requirements.txt
-python screen_translator.py
+python STranslator.py
 ```
 
 ### Зависимости
